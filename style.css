@@ -1,0 +1,6 @@
+#google-url-guard p { margin: 0.6em 0; overflow-wrap: anywhere; line-height: 1.55; }
+#google-url-guard small, #google-url-guard .gug-muted { opacity: 0.75; }
+#google-url-guard .gug-actions { display: flex; flex-wrap: wrap; gap: 0.5em; }
+#google-url-guard .gug-actions button { width: auto; margin: 0; }
+#google-url-guard [hidden] { display: none !important; }
+#google-url-guard button:disabled { opacity: 0.55; cursor: wait; }

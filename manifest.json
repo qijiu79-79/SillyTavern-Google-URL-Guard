@@ -1,0 +1,14 @@
+{
+  "display_name": "谷歌地址守卫 · /v1 自动修正",
+  "loading_order": 120,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "qijiu79-79",
+  "version": "1.0.0",
+  "minimum_client_version": "1.19.0",
+  "homePage": "https://github.com/qijiu79-79/SillyTavern-Google-URL-Guard",
+  "auto_update": true,
+  "hooks": { "disable": "onDisable", "enable": "onEnable" }
+}
